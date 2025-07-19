@@ -4,6 +4,8 @@
 
 I’m a Computer Engineering student at Nova SST with a strong passion for logic and mathematics, which naturally fueled my interest in science. I thrive in challenging environments where I can apply and expand my skills, often developing creative, out-of-the-box solutions. As a tech enthusiast, my free time is spent learning new skills through hands-on projects and books.
 
+My Website: https://neliolacerda.github.io/WebSite
+
    <p align="left">
       <a href="https://github.com/NelioLacerda?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/NelioLacerda?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
