@@ -2,9 +2,7 @@
 
 **`Software Engineer`**
 
-I’m a Computer Engineering student at Nova SST with a strong passion for logic and mathematics, which naturally fueled my interest in science. I thrive in challenging environments where I can apply and expand my skills, often developing creative, out-of-the-box solutions. As a tech enthusiast, my free time is spent learning new skills through hands-on projects and books.
-
-My Website: https://neliolacerda.github.io/WebSite
+I’m a Computer Engineering student at Nova FCT with a strong passion for logic and mathematics, which naturally fueled my interest in science. I thrive in challenging environments where I can apply and expand my skills, often developing creative, out-of-the-box solutions. As a tech enthusiast, I spend my free time learning new skills through hands-on projects and books, and applying them to (usually) small projects.
 
    <p align="left">
       <a href="https://github.com/NelioLacerda?tab=followers">
@@ -29,11 +27,10 @@ My Website: https://neliolacerda.github.io/WebSite
 <img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-line.svg" />
 <img align="left" alt="Unreal" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
 <img align="left" alt="OCaml" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ocaml/ocaml-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Rust" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
 <br />
 
 #
@@ -45,5 +42,3 @@ My Website: https://neliolacerda.github.io/WebSite
 ![GitHub Streak](https://streak-stats.demolab.com?user=NelioLacerda&theme=codestackr&border_radius=4.5)
 
 #
-  
-[website]: https://neliolacerda.github.io/WebSite/
